@@ -1,1 +1,1 @@
-# FirstStuday
+# FirstStudy
